@@ -1,2 +1,2 @@
-# Problem Statement
+## Problem Statement
 Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects computer vision and natural language processing. Some of its application includes helping visually impaired people better understand the content of images on the web. One of the key challenge involves generating description that must capture not only the objects contained in an image, but also express how these objects relate to each other as well as their attributes and the activities they are involved in. Moreover, the above semantic knowledge has to be expressed in a natural language like English, which means that a language model is needed in addition to visual understanding.
